@@ -7,7 +7,7 @@ Tình ta đẹp tựa muôn ngàn đoá hoa<br>
 Đoá hoa mà tựa Hằng Nga<br>
 Bảo Vy đọ sắc muôn loài kém xa.
 `,
-    btnIntro: 'ỏoooo',
+    btnIntro: 'Ỏoooo',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
     desc: 'Em bé có iu anh honggggg',
     btnYes: 'cũng cũng đi',

@@ -3,7 +3,8 @@ const CONFIG = {
     introDesc: `Người ơi người có biết chăng,
 Tình ta đẹp tựa muôn ngàn đoá hoa,
 Đoá hoa mà tựa Hằng Nga,
-Bảo Vy đọ sắc muôn loài kém xa.`,
+Bảo Vy đọ sắc muôn loài kém xa.`
+    ,
     btnIntro: 'Ỏoooo',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
     desc: 'Em bé có iu anh honggggg',

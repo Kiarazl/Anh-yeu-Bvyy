@@ -9,7 +9,7 @@ Lòng anh đang có đôi điều
 
 Rủ em dệt mộng mơ bên gió chiều.
 `,
-    btnIntro: 'hihi',
+    btnIntro: 'Ỏoooo',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
     desc: 'Em bé có iu anh honggggg',
     btnYes: 'hơi hơi iu',

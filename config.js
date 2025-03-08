@@ -9,7 +9,7 @@ Lòng anh đang có đôi điều
 
 Rủ em dệt mộng mơ bên gió chiều.
 `,
-    btnIntro: 'Ỏoooo',
+    btnIntro: 'ỏoooo',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
     desc: 'Em bé có iu anh honggggg',
     btnYes: 'hơi hơi iu',
@@ -18,7 +18,7 @@ Rủ em dệt mộng mơ bên gió chiều.
     btnReply: 'đúng òiiiii',
     reply: 'tại anh đẹp trai học giỏi s1tg lại còn đc học bổng',
     mess: 'Anh biết mà 🥰. Yêu em bée 😘😘',
-    messDesc: 'Tối mai học xong anh đi bộ qua nhà em bé nhó.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/61557848840544?hash=AbYjbi88EU8tMtJl&source=qr_link_share'
+    messDesc: 'Hôm nay em bé phải học mệt ùi mai mình đi chơi nhóoooo :3, anh sẽ chén em như này này',
+    btnAccept: 'Chiếm lấy em đi anhiu <3',
+    messLink: 'https://www.pornhub.com/view_video.php?viewkey=649089c4c8d0b'
 }

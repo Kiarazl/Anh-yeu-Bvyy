@@ -1,9 +1,14 @@
 const CONFIG = {
-    introTitle: 'Chúc mừng ngày 8/3 sớm nhé emiu!',
-    introDesc: `Chiều chiều lại nhớ chiều chiều
-Hôm nay anh nhớ em nhiều biết chăng
+    introTitle: 'Chúc mừng ngày 8/3 nhé emiu!',
+    introDesc: `
 Chiều chiều lại nhớ chiều chiều
-Lòng anh đang có đôi điều với em`,
+
+Hôm nay anh nhớ em nhiều biết chăng
+
+Lòng anh đang có đôi điều 
+
+Rủ em dệt mộng mơ bên gió chiều.
+`,
     btnIntro: 'hihi',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
     desc: 'Em bé có iu anh honggggg',

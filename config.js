@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Chúc mừng ngày 8/3 nhé emiu!',
-    introDesc: `Người ơi người có biết chăng,
-Tình ta đẹp tựa muôn ngàn đoá hoa,
-Đoá hoa mà tựa Hằng Nga,
-Bảo Vy đọ sắc muôn loài kém xa.`
+    introDesc: `Người ơi người có biết chăng,\n
+    Tình ta đẹp tựa muôn ngàn đoá hoa,\n
+    Đoá hoa mà tựa Hằng Nga,\n
+    Bảo Vy đọ sắc muôn loài kém xa.`
     ,
     btnIntro: 'Ỏoooo',
     title: 'Em bée Nguỹn Hoèng Bẻo Zy àaaaaaaa',
